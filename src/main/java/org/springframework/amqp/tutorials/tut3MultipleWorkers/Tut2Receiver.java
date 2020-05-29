@@ -1,4 +1,4 @@
-package org.springframework.amqp.tutorials.tut2;
+package org.springframework.amqp.tutorials.tut3MultipleWorkers;
 
 import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
