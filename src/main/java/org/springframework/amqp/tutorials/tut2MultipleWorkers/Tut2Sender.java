@@ -1,4 +1,4 @@
-package org.springframework.amqp.tutorials.tut3MultipleWorkers;
+package org.springframework.amqp.tutorials.tut2MultipleWorkers;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
