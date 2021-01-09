@@ -1,6 +1,10 @@
 # rabbitmq-spring-boot-examples
 
 ## How to run
+### Docker
+Execute the following command
+```docker-compose up```
+
 The examples have profile context. Chose one example and get the profile name context to run with the flag --spring.profiles.active.
 
 ### Example - Tutorial 2
